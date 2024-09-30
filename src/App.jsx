@@ -139,7 +139,7 @@ const App = () => {
     </div>
     
     <div class="footer">
-  <p>@Made with love by DEK68 StudentStudent ❤️</p>
+  <p>@Made with love by DEK68 Student ❤️</p>
 </div>
     </>
   );
