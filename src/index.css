@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'ChingchaLight';
+  src: url('./assets/SaoChingcha-Light.otf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+.content{
+  margin:3rem;
+}
+.content1{
+  margin:1rem;
+  margin-bottom: 200px;
+}
+.footer {
+  margin-top: 5px;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgba(9, 54, 189, 0.922);
+  color: white;
+  text-align: center;
+}
+* {
+  font-family: "ChingchaLight" !important
+}
+.cc-font{
+  font-family: "ChingchaLight"
+}
