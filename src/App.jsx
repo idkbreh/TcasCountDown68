@@ -138,7 +138,7 @@ const App = () => {
       </Row>
     </div>
     
-    <div class="footer">
+    <div className="footer">
   <p>@Made with love by DEK68 Student ❤️</p>
 </div>
     </>
