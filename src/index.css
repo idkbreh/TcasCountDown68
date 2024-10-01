@@ -11,6 +11,9 @@
   margin:1rem;
   margin-bottom: 200px;
 }
+body{
+  background-color:#fff;
+}
 .footer {
   margin-top: 5px;
   position: fixed;
